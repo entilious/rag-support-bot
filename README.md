@@ -81,7 +81,7 @@ backend directly.
 - Why filtering retrieval by metadata matters for answer quality
 - Wiring an AI backend into a real UI and packaging it all in Docker
 
-## If I build on this
+## Future development
 
 - Stream responses token-by-token
 - Add tools so the bot can look up real orders, not just answer questions
