@@ -5,14 +5,14 @@ and **LangGraph**. I built a simple customer support chatbot that answers
 questions using a knowledge base instead of making things up.
 
 This project was mainly a learning exercise. I wanted to understand how
-real support bots work under the hood, so I built one from scratch and
-packaged it with Docker.
+real support bots work under the hood, so I built one from scratch.
 
 ## Demo
 
 Watch the bot in action:
 
-<!-- TODO: drag and drop the demo video here while editing this file on GitHub -->
+https://github.com/user-attachments/assets/0cba991a-a77e-460a-9a48-641ea12293a8
+
 
 ## What it does
 
