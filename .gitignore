@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Vector store (built at runtime by ingest_demo.py)
+chroma_db/
+
+# OS / editor junk
+.DS_Store
+.vscode/
